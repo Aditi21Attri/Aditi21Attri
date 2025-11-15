@@ -1,19 +1,19 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm Aditi Attri</h1>
-<h3 align="center">MCA Student · Software Developer · Web & AI‑Powered Apps</h3>
+<h3 align="center">MCA Student · Software Developer · AI‑powered Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=600&lines=Building+AI+powered+web+apps...;Designing+full-stack+systems...;Solving+real+problems+with+code" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=600&lines=Building+AI+powered+web+apps...;Designing+product+systems...;Solving+real+problems+with+code" alt="typing animation"/>
 </p>
 
 ---
 
 ### 🧾 About Me
 
-- 🚀 I’m a software developer building AI‑powered web apps and tools focused on SEO, lead management, and practical integrations.
-- 🤖 I integrate OpenAI (GPT) into real tools — for audit recommendations, content assistance, and automation of workflows.
-- 🌐 Currently developing a full‑stack CRM portal to track applications, manage documents, and automate communications.
-- 🧩 You can explore my repos to see the kinds of projects I build: tools, APIs, dashboards, and integrations with third‑party platforms.
+- 🚀 I'm a software developer building AI‑powered web applications, marketplaces, social apps, travel tools, and CRM solutions.
+- 🤖 I integrate OpenAI into practical products for content assistance, workflow automation, and smarter user experiences.
+- 🌐 Current focus: backend systems, APIs, product logic, and integrations that power user‑facing applications.
+- 🧩 Explore my repositories to see the kinds of projects I build — platforms, APIs, services, and integrations.
 
 ---
 
@@ -23,33 +23,31 @@
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JDBC-0052CC?style=flat-square&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JSP-000000?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-#### 🌿 Learning & Interests
-React.js · Tailwind CSS · Chrome Extensions · Async Python · Scalable automation & integrations
-
-Note: I’m not actively focusing on Playwright or heavy web automation at the moment — my current work emphasizes backend systems, APIs, and AI integrations. Past projects may include small crawlers or automation helpers where relevant.
+Note: I’m not focusing on Playwright or heavy web scraping right now — my main work emphasizes backend architecture, product features, and AI integrations.
 
 ---
 
-### 🚀 Projects (high level)
+### 🚀 Projects
 
-| Project | What it does | Tech highlights |
-|---|---|---|
-| 🔍 SEO Audit Tool | Real‑time audits with GPT recommendations and actionable suggestions | Flask, OpenAI, JavaScript, Tailwind |
-| 🧲 Lead Capture System | Collects and processes leads from social/webhooks and automates follow-ups | Meta APIs, Flask, n8n integrations |
-| 🌐 Immigration CRM Portal (WIP) | Manage applications, automate messaging and document workflows | Flask, MySQL, Scheduler, (React front‑end planned) |
-| 🔗 Outreach / Backlink Helper | Tools to discover and manage outreach targets (repo contains implementation details) | Python utility scripts, SMTP, integration patterns |
+| Project | Description | Tech highlights |
+|---|---:|---|
+| Skill Exchange | A peer-to-peer marketplace for skills and micro-services — users list skills, book sessions, and review mentors | Python, Flask, OpenAI integrations, MySQL, Docker |
+| MoodMingle | A lightweight social app that connects users based on mood, interests, and short shared activities | Backend APIs, real-time notifications, AI-assisted content suggestions |
+| TravelSo | Trip planner and itinerary-sharing platform that helps users plan, share, and collaborate on trips | APIs for itinerary generation, storage, user profiles, recommendation helpers |
+| Immigration CRM (WIP) | Full‑featured CRM to manage immigration applications, automate messages, and track documents | Flask, MySQL, schedulers, automation patterns |
+| Lead Capture & Integrations | Systems to collect leads via webhooks and third‑party APIs, process them, and trigger downstream workflows | Meta APIs, webhook handlers, automation integrations |
 
-If you want each project linked to its repo or live demo, provide the URLs and I’ll add them.
+If you want repository links or short demos added for each project, provide the URLs and I’ll include them.
 
 ---
 
