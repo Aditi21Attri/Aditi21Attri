@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/-JSP-000000?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
